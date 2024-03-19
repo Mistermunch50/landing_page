@@ -1,0 +1,1 @@
+19/03/2024 - Odin project landing page starts ==> goal is to use learnt html and css skills before moving to javascript foundations
